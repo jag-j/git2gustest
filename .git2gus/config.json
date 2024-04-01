@@ -34,6 +34,12 @@
     "type:feedback": "",
     "type:duplicate": ""
   },
+  "issueEpicMapping": {
+    "USER STORY": "a3QB0000000LCfxMAG",
+    "BUG P1": "a3QB0000000LCfxMAG",
+    "BUG P2": "a3QB0000000LCfxMAG",
+    "BUG P3": "a3QB0000000LCfxMAG"
+  },
   "defaultBuild": "228",
   "hideWorkItemUrl": "true",
   "statusWhenClosed": "CLOSED",
